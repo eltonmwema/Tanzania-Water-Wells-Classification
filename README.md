@@ -113,4 +113,3 @@ We used the following models to evaluate the best perfotming one:
 
 
 The link for the presentation is https://www.canva.com/design/DAFaVpCkWCI/qiR7JZ9sWO_X6SSHavfC0g/view?utm_content=DAFaVpCkWCI&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu
-                                   
