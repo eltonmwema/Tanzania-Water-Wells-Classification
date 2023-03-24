@@ -75,7 +75,11 @@ This involved several parts including:
                                        validity
                                        
 # EDA
-I used relation plots and count plots as seen in the visuals in the notebook.
+I used relation plots and count plots as seen in the visuals in the notebook together with the following.
+# Correlation matrix
+![image](https://user-images.githubusercontent.com/87186427/227463402-1b06a6f5-ff0c-4cec-bb8d-6bbbb5fe9c02.png)
+# Pump status vs payment type at Wells
+![image](https://user-images.githubusercontent.com/87186427/227463886-18d35555-f462-4c6a-b6ae-e1a878edc2a0.png)
 
 # 5.MODELING
 We used the following models to evaluate the best perfotming one:
